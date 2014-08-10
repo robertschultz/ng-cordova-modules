@@ -1,4 +1,3 @@
-ng-phonegap-modules
-===================
-
-A collection of AngularJS directives and modules for PhoneGap.
+Introduction
+----
+A collection of sharable Cordova modules based on AngularJS. These are built for the mobile Cordova based applications I've built.
